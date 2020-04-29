@@ -31,6 +31,10 @@ Manage destruction of user data
 
 ## FrontEnd Requirements
 
+Onboard User
+
+Facilitate payment for storage durability
+
 User access to creation of data
 
 User access to storage of documents
